@@ -1,3 +1,3 @@
-# hello-world2
-2nd attempt
+# hello-world
+My first repository
 I like to ride my Harley Davidson Motorcycle.
